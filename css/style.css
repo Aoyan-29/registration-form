@@ -1,0 +1,53 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	font-family:"Poppins", serif;
+
+}
+h1{
+	  font-family: "Montserrat", serif;
+	  text-align: center;
+	  margin: 10px auto;
+}
+.wrapper{
+	background-color:whitesmoke;
+	width: 100%;
+	
+
+}
+.reg{
+	background-color:grey;
+	width:500px;
+	margin:15px auto ;
+	padding:30px;
+	border: solid black;
+
+}
+.reg-form{
+	margin:0px auto px;
+	width: 100%;
+	border: black;
+	display: block;
+
+
+}
+
+.z{
+	
+	color:black;
+
+	
+	text-align: center;
+
+}
+
+.reg-form label{
+	font-size: 14px;
+	font-height: 24px;
+	display: block;
+}
+.form-control{
+	width: 100%;
+}
